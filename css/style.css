@@ -8683,9 +8683,6 @@ h1, h2, h3, h4, h5,
     font-size: 28px;
     font-weight: 400; }
   @media (min-width: 992px) {
-    .ftco-intro h2 {
-      font-size: 20px;
-    }
     .services.active {
       background: #1e1e1e;
       color: #fff; }
@@ -8717,6 +8714,9 @@ h1, h2, h3, h4, h5,
     border: 1px solid red;
     z-index: -1; }
   @media (max-width: 767.98px) {
+   .ftco-intro h2 {
+      font-size: 20px;
+    }
     .aside-stretch {
       background: transparent; }
       .aside-stretch:after {
