@@ -9651,5 +9651,9 @@ textarea.form-control {
 @media (max-width: 992px) {
   .ftco-navbar-light .navbar-brand {
     color: #fff !important;
-  } }
+  }
+  .head-title {
+    font-size: 24px;
+}
+ }
 
